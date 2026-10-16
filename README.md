@@ -17,7 +17,7 @@ A simple Hangman-style word guessing game built with **Python** and **Tkinter**.
 
 ## How to Run
 ```bash
-git clone https://github.com/your-username/word-guessing-game.git
+git clone https://github.com/swatidixit04/word-guessing-game.git
 cd word-guessing-game
 python hangman.py
 ```
