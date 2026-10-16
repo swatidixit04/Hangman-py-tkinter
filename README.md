@@ -16,11 +16,10 @@ A simple Hangman-style word guessing game built with **Python** and **Tkinter**.
 - Tkinter (comes built into Python, no installation needed)
 
 ## How to Run
-```bash
-git clone https://github.com/swatidixit04/word-guessing-game.git
-cd word-guessing-game
+bash
+git clone https://github.com/swatidixit04/Hangman-py-tkinter.git
+cd Hangman-py-tkinter
 python hangman.py
-```
 
 ## Project Structure
 ```
